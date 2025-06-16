@@ -16,7 +16,7 @@ MENTOR : NEELA SANTHOSH
 
 # Title : Real-Time Threat Mitigation in MCPS using RNN, Isolation Forest & Optimization
 
-Overview
+**Overview**
 CyberFedDefender is a real-time adaptive cybersecurity framework built for Mobile Cyber-Physical Systems (MCPS). It uses machine learning and optimization to detect, assess, and mitigate cyber threats under strict budget and resource constraints.
 
 This system combines:
@@ -27,9 +27,47 @@ This system combines:
 
   Business optimization model (Linear Programming) for strategic, cost-efficient mitigation.
 
+  **Features**
+ Real-time threat detection using ML models
+
+ Resource-aware threat mitigation using optimization
+
+ Interactive analytics dashboard with Plotly
+
+ Cost efficiency analysis of mitigation strategies
+
+ Visualizations: Scatter, Bar, Heatmap, Box, and Pie charts
+ 
+
   | Purpose           | Algorithm                                         |
 | ----------------- | ------------------------------------------------- |
 | Anomaly Detection | Recurrent Neural Networks (RNN)                   |
 | Outlier Detection | Isolation Forest                                  |
 | Optimization      | Linear Programming (via `scipy.optimize.linprog`) |
 | Visualization     | Plotly (Interactive graphs)                       |
+
+ **How It Works**
+1. Load & preprocess the dataset.
+
+2. Detect anomalies using RNN and Isolation Forest.
+
+3. Label threats based on detection confidence.
+
+4. Optimize threat mitigation under budget & resource constraints.
+
+5. Visualize the results using Plotly interactive dashboards
+
+**Dataset Used**
+
+
+
+**Acknowledgements**
+
+This project is a part of an initiative to build AI-driven cyber defense frameworks for real-time applications in mobile and industrial systems.
+
+**Contact**
+
+Project Author: Megaa C.V.
+For suggestions or collaboration, feel free to connect via LinkedIn or email.
+
+
