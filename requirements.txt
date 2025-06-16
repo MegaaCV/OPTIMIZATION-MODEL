@@ -1,0 +1,1 @@
+pip install pandas numpy plotly scikit-learn tensorflow scipy
