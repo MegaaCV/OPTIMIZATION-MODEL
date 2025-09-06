@@ -1,20 +1,5 @@
 # OPTIMIZATION-MODEL
 
-COMPANY NAME : CODETECH IT SOLUTIONS
-
-NAME : MEGAA C V
-
-INTERN ID : CT06DN683
-
-DOMAIN : DATA SCIENCE
-
-DURATION : 6 WEEKS
-
-MENTOR : NEELA SANTHOSH
-
-# Description of the task
-
-
 # Title : Real-Time Threat Mitigation in MCPS using RNN, Isolation Forest & Optimization
 
 **Overview**
